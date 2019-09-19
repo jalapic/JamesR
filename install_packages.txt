@@ -1,0 +1,28 @@
+
+
+
+
+After installing RStudio, please install the following add-on packages for R. To install the libraries, make sure you have an Internet connection and then launch R Studio. Copy the following line of text and paste them in to R's command prompt, located in the window named "Console"). After inserting the text press enter. You may be prompted occasionally with a question asking if you wish to install. Type "Y" and then enter. 
+
+Please note that there are two groups of packages to install.
+
+install.packages(c("tidyverse", "broom", "coefplot", "gapminder", "ggrepel",  "car", "Hmisc", "psych", "ggm",
+"outliers",  "gvlma",  "gplots", "HH", "babynames", "ggplot2", "reshape2", "GGally", "ppcor", "ltm", "polycor", "scales", "MASS", "devtools"), repos = "http://cran.rstudio.com")
+
+
+install.packages(c("pastecs", "Lahman", "ggbeeswarm", "gapminder", "nortest",  "normtest", "multcomp", "sjstats", "coin", "effects",  "ez",  "nlme", "ggfortify", "modelr", "leaps", "ISLR", "caret", "pscl"), repos = "http://cran.rstudio.com")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+install.packages(c("tidyverse", "broom", "coefplot", "gapminder", "ggrepel",  "car", "Hmisc", "psych", "ggm", "outliers",  "gvlma",  "gplots", "HH", "babynames", "ggplot2", "reshape2", "GGally", "ppcor", "ltm", "polycor", "scales", "MASS", "devtools","pastecs", "Lahman", "ggbeeswarm", "gapminder", "nortest",  "normtest", "multcomp", "sjstats", "coin", "effects",  "ez",  "nlme", "ggfortify", "modelr", "leaps", "ISLR", "caret", "pscl"), repos = "http://cran.rstudio.com")
